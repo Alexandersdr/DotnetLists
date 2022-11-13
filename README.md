@@ -1,0 +1,2 @@
+# DotnetLists
+ dotnet-6
